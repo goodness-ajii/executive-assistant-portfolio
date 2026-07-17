@@ -277,6 +277,12 @@ Weekly Executive Briefing Sample
 
 ---
 
+# Resume
+
+Download my Executive Assistant Resume
+
+📄 Goodness_Ajii_Executive_Assistant_Resume.pdf
+
 # Why Work With Me?
 
 I help executives and leadership teams:
