@@ -21,6 +21,13 @@ My background combines executive support, administrative operations, project coo
 I build systems that help executives focus on strategic priorities while ensuring day-to-day operations run smoothly.
 
 ---
+# Career Snapshot
+
+With more than **10 years of professional experience**, I have supported fast-paced operations by coordinating schedules, managing documentation, improving workflows, and ensuring executives can focus on high-value strategic work.
+
+My experience spans healthcare operations, executive support, virtual assistance, workflow optimization, and AI-assisted productivity.
+
+Today, I combine executive administration with modern technology to build efficient systems that reduce manual work and improve operational excellence.
 
 # Core Expertise
 
@@ -51,7 +58,6 @@ I build systems that help executives focus on strategic priorities while ensurin
 | Zoom | TripIt | Canva |
 
 ---
-
 # Featured Portfolio Projects
 
 ## 📅 Executive Calendar Management
@@ -70,6 +76,84 @@ Managed executive calendars using Google Calendar while prioritizing meetings, r
 ➡️ View the complete project inside the **02 Calendar Management** folder.
 
 ---
+# Impact Highlights
+
+Throughout my career, I have delivered measurable operational improvements, including:
+
+✔ Reduced scheduling conflicts by **50%** through structured calendar management.
+
+✔ Improved workflow efficiency by **60%** by implementing standardized administrative systems.
+
+✔ Reduced repetitive administrative work by **40%** using AI-assisted productivity tools.
+
+✔ Coordinated **200+ monthly stakeholder interactions** with professionalism and accuracy.
+
+✔ Managed confidential documentation while maintaining strict compliance and organizational standards.
+
+✔ Designed reusable SOPs that improved consistency across recurring administrative tasks.
+
+# Professional Toolkit
+
+### Productivity
+
+- Google Workspace
+- Microsoft 365
+- Outlook
+- Google Calendar
+- Google Docs
+- Google Sheets
+
+### Executive Support
+
+- Calendar Management
+- Meeting Coordination
+- Travel Planning
+- Inbox Management
+- Executive Briefings
+
+### Project Management
+
+- Notion
+- Asana
+- Airtable
+- Trello
+- ClickUp
+
+### Communication
+
+- Slack
+- Zoom
+- Google Meet
+- Microsoft Teams
+
+### AI Productivity
+
+- ChatGPT
+- Claude AI
+- Zapier
+- Make
+- n8n
+
+# Currently Learning
+
+I continuously improve my executive support and automation skills through practical projects involving:
+
+- AI Productivity Systems
+- Executive Workflow Automation
+- Advanced Notion Workspaces
+- Airtable Databases
+- Executive Operations
+- Business Process Optimization
+
+# Certifications
+
+✔ Certified Medical Virtual Assistant
+
+✔ AI Automation Practitioner
+
+✔ Licensed Registered Nurse (RN)
+
+✔ Nephrology Nursing Experience (10+ Years)
 
 ## 📝 Executive Meeting Notes
 
@@ -211,6 +295,26 @@ I help executives and leadership teams:
 
 ---
 
+# Available for Opportunities
+
+I am currently open to:
+
+✔ Executive Assistant
+
+✔ Executive Virtual Assistant
+
+✔ Operations Coordinator
+
+✔ Administrative Coordinator
+
+✔ Chief of Staff Support
+
+✔ Remote Executive Support
+
+✔ Operations Specialist
+
+Remote • Hybrid • International Opportunities
+
 # Connect With Me
 
 📧 Email
@@ -231,8 +335,12 @@ https://github.com/goodness-ajii
 
 ---
 
-# Thank You
+---
 
-Thank you for visiting my Executive Assistant Portfolio.
+Thank you for visiting my portfolio.
 
-If you're looking for an Executive Assistant who combines operational excellence with modern AI-powered productivity, I'd be delighted to connect.
+I enjoy creating organized systems that help executives save time, improve productivity, and operate more efficiently.
+
+Let's connect.
+
+⭐ If you found this portfolio helpful, feel free to connect with me on LinkedIn.
