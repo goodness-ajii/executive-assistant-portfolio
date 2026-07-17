@@ -6,32 +6,23 @@
 
 I'm **Goodness Ajii Eneogbu**.
 
-## Executive Assistant | Operations Specialist | AI Productivity Expert
+### Executive Assistant | Operations Specialist | AI Productivity Expert
 
-I help executives save time through seamless coordination, organized operations, workflow optimization, and AI-powered productivity systems.
+Helping executives save time through seamless coordination, efficient systems, and AI-powered productivity.
 
-With over **10 years of professional experience**, I support leaders by improving operational efficiency, managing priorities, and creating systems that keep teams moving forward.
+---
 
-## About Me
+# About Me
 
-I am an Executive Assistant and Executive Virtual Assistant with experience supporting complex operations, coordinating executive priorities, and improving workflows through technology.
+I am an Executive Assistant and Executive Virtual Assistant with over **10 years of professional experience** supporting complex operations, coordinating executive priorities, and improving workflows.
 
-My background combines executive support, project coordination, documentation, scheduling, and AI-powered automation to help executives focus on strategic work.
+My background combines executive support, administrative operations, project coordination, documentation, scheduling, travel planning, and AI-powered workflow optimization.
 
-I thrive in fast-paced remote environments where organization, discretion, proactive communication, and attention to detail are essential.
+I build systems that help executives focus on strategic priorities while ensuring day-to-day operations run smoothly.
 
-# Tools & Technologies
+---
 
-| Productivity | Project Management | AI & Automation |
-|--------------|--------------------|-----------------|
-| Google Workspace | Asana | ChatGPT |
-| Microsoft 365 | Notion | Claude AI |
-| Google Calendar | Trello | Zapier |
-| Outlook | Airtable | n8n |
-| Calendly | ClickUp | Make |
-| Slack | TripIt | |
-
-# Core Competencies
+# Core Expertise
 
 - Executive Support
 - Calendar Management
@@ -42,61 +33,143 @@ I thrive in fast-paced remote environments where organization, discretion, proac
 - Project Coordination
 - Workflow Optimization
 - SOP Development
-- Stakeholder Management
-- Documentation
 - AI Productivity
+- Executive Reporting
+- Stakeholder Communication
 
-# Featured Projects
+---
 
-### Executive Calendar Management
+# Technology Stack
 
-**Objective**
+| Productivity | Project Management | AI & Automation |
+|--------------|--------------------|-----------------|
+| Google Workspace | Asana | ChatGPT |
+| Microsoft 365 | Notion | Claude AI |
+| Google Calendar | Airtable | Zapier |
+| Outlook | Trello | Make |
+| Calendly | Slack | n8n |
+| Zoom | TripIt | Canva |
 
-Manage executive calendars efficiently while reducing scheduling conflicts and maximizing productivity.
+---
+
+# Featured Portfolio Projects
+
+## 📅 Executive Calendar Management
+
+<img src="images/calendar-management.jpg" width="100%">
+
+Managed executive calendars using Google Calendar while prioritizing meetings, reducing scheduling conflicts, and improving executive productivity.
 
 **Skills Demonstrated**
 
 - Calendar Management
 - Time Blocking
-- Meeting Coordination
-- Executive Prioritization
+- Executive Scheduling
+- Prioritization
 
-**Tools**
+➡️ View the complete project inside the **02 Calendar Management** folder.
 
-Google Calendar
+---
 
-### Executive Meeting Notes
+## 📝 Executive Meeting Notes
 
-Created structured meeting agendas, professional meeting minutes, and action trackers that improve accountability and follow-through.
+<img src="images/meeting-notes.jpg" width="100%">
 
-**Skills**
+Prepared professional meeting agendas, meeting minutes, and action trackers that improve accountability and follow-through.
+
+**Skills Demonstrated**
 
 - Documentation
+- Meeting Coordination
 - Executive Communication
-- Action Item Tracking
+- Action Tracking
 
-### Executive Travel Planning
+➡️ View the complete project inside the **01 Meeting Notes Management** folder.
 
-Prepared detailed travel itineraries using Google Flights and TripIt while coordinating logistics for business travel.
+---
 
-**Skills**
+## ✈️ Executive Travel Planning
+
+<img src="images/travel-planning.jpg" width="100%">
+
+Created executive travel itineraries using Google Flights and TripIt while coordinating schedules and logistics.
+
+**Skills Demonstrated**
 
 - Travel Coordination
+- Logistics
 - Executive Planning
 - Attention to Detail
 
-### Weekly Executive Briefings
+➡️ View the complete project inside the **03 Flight Search** folder.
 
-Prepared concise executive summaries highlighting priorities, risks, deadlines, and operational updates.
+---
 
-**Skills**
+## 📆 Meeting Scheduling
+
+<img src="images/calendly-booking.jpg" width="100%">
+
+Configured Calendly scheduling pages to simplify meeting booking while reducing administrative workload.
+
+**Skills Demonstrated**
+
+- Scheduling
+- Client Communication
+- Calendar Optimization
+
+➡️ View the complete project inside the **04 Meeting Scheduling** folder.
+
+---
+
+## ✅ Executive Task Management
+
+<img src="images/asana-board.jpg" width="100%">
+
+Managed executive projects and tracked deliverables using Asana.
+
+**Skills Demonstrated**
+
+- Project Coordination
+- Task Management
+- Deadline Tracking
+
+➡️ View the complete project inside the **05 Action Item Tracking** folder.
+
+---
+
+## 📚 Conference Planning
+
+<img src="images/notion-workspace.jpg" width="100%">
+
+Built a centralized conference planning workspace using Notion to organize tasks, schedules, and documentation.
+
+**Skills Demonstrated**
+
+- Knowledge Management
+- Documentation
+- Project Planning
+
+➡️ View the complete project inside the **07 Conference Management** folder.
+
+---
+
+## 📊 Executive Weekly Briefings
+
+<img src="images/executive-briefing.jpg" width="100%">
+
+Produced concise executive reports summarizing priorities, risks, deadlines, and operational updates.
+
+**Skills Demonstrated**
 
 - Executive Reporting
 - Communication
-- Decision Support
+- Strategic Support
 
-# Repository Structure
+---
 
+# Portfolio Structure
+
+```
 01 Meeting Notes Management
 
 02 Calendar Management
@@ -116,45 +189,50 @@ Executive Meeting Notes Sample
 Conference Travel Itinerary Sample
 
 Weekly Executive Briefing Sample
+```
+
+---
 
 # Why Work With Me?
 
-I combine executive support expertise with modern productivity tools to help executives:
+I help executives and leadership teams:
+
+✅ Stay organized
+
+✅ Improve productivity
 
 ✅ Save time
 
-✅ Improve organization
+✅ Streamline operations
 
-✅ Streamline workflows
+✅ Build efficient systems
 
-✅ Reduce administrative overhead
+✅ Reduce administrative workload
 
-✅ Increase operational efficiency
+---
 
+# Connect With Me
 
-# Let's Connect
-
-📧 **Email**
+📧 Email
 
 hello@goodnessajii.com
 
-🌍 **Website**
+🌐 Website
 
 https://goodnessajii.com
 
-💼 **LinkedIn**
+💼 LinkedIn
 
 https://linkedin.com/in/goodness-ajii
 
-📂 **GitHub**
+🐙 GitHub
 
 https://github.com/goodness-ajii
 
 ---
 
-Thank you for taking the time to explore my Executive Assistant Portfolio.
+# Thank You
 
-I look forward to supporting executives and teams by creating efficient systems, optimizing workflows, and delivering exceptional administrative support.
+Thank you for visiting my Executive Assistant Portfolio.
 
-⭐ If this portfolio resonates with you, feel free to connect.
-
+If you're looking for an Executive Assistant who combines operational excellence with modern AI-powered productivity, I'd be delighted to connect.
