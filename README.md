@@ -277,11 +277,20 @@ Weekly Executive Briefing Sample
 
 ---
 
-# Resume
+# 📄 Resume
 
-Download my Executive Assistant Resume
+Looking for a concise overview of my experience?
 
-📄 Goodness_Ajii_Executive_Assistant_Resume.pdf
+➡️ **[Download My Executive Assistant Resume (PDF)](Goodness_Ajii_Executive_Assistant_Resume.pdf)**
+
+My resume highlights:
+
+- Executive Support
+- Operations Coordination
+- Calendar & Travel Management
+- Workflow Optimization
+- AI Productivity
+- Project Coordination
 
 # Why Work With Me?
 
